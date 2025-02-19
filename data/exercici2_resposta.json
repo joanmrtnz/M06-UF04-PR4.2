@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-14T15:55:36.439Z",
+  "timestamp": "2025-02-19T16:11:07.087Z",
   "games": [
     {
       "appid": "10",
@@ -16,9 +16,9 @@
       "name": "Team Fortress Classic",
       "statistics": {
         "positive": 0,
-        "negative": 1,
+        "negative": 2,
         "neutral": 0,
-        "error": 1
+        "error": 0
       }
     }
   ]
