@@ -16,5 +16,8 @@
     "csv-parser": "^3.1.0",
     "dotenv": "^16.4.7",
     "practica-codi": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
